@@ -1,9 +1,23 @@
-excerpt_separator: ""
-pygments: null
-markdown: kramdown
-url: https://lawsonproject-chapter2.github.io
-title: The Lawson Project
-tagline: A look back at the TV Show "Small Wonder"
-description: My awesome new site
-paginate: 5
-gems: [jekyll-paginate]
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               The Lawson Project
+tagline:             Book 1
+description:         'A look back at the 1980's television show 'Small Wonder''
+url:                 https://lawsonproject-chapter2.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             1.0.0
+
