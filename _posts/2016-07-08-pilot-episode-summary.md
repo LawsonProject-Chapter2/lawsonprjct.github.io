@@ -2,7 +2,6 @@
 title: Pilot Episode Summary
 date: '2016-07-08 00:00:00'
 layout: default
-draft: true
 ---
 A quick summary of the very first episode of "Small Wonder."
 
